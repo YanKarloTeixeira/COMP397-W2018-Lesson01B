@@ -1,0 +1,4 @@
+{
+    const myVariable =0;
+    
+}
